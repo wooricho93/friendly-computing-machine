@@ -1,4 +1,4 @@
-// 하한 제한(T와 그 조상들만 가능)
+
 public class Ex12_14 {
 
 	public static void main(String[] args) {
